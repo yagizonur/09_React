@@ -1,0 +1,14 @@
+Visual Studio Code 
+VsCode Extension  => ES7+React/Redux/React-Native Snippets
+http://react.dev dokümantasyon için.
+node.js kurulacak. LTS olan versiyon kurulmalı.
+kontrol için  => cmd'den node -v
+indirme linki => https://nodejs.org/en
+vite ile react kurulumu 
+    => 
+    npm create vite@latest
+    cd projectname veya projeyi direkt açtığın klasörün içerisine oluşturmak için direkt .(nokta) ile proje oluşturulabilir.
+    npm i veya npm install
+    npm run dev 
+    local: CTRL + Mouse Click proje açılmış oluyor. 
+    Projeyi kapatmak için CTRL + C'ye basabilirsiniz.

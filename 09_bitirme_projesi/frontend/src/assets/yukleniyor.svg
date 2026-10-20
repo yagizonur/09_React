@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <!-- Arkadaki silik halka -->
+  <circle cx="24" cy="24" r="18" fill="none" stroke="#f5d0fe" stroke-width="5" />
+  <!-- Dönen renkli yay -->
+  <circle cx="24" cy="24" r="18" fill="none" stroke="#a21caf" stroke-width="5"
+          stroke-linecap="round" stroke-dasharray="30 200">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 24 24" to="360 24 24" dur="0.8s" repeatCount="indefinite" />
+  </circle>
+</svg>

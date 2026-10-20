@@ -86,7 +86,7 @@ function App() {
         <div><KullaniciYazilari /></div>
       </section>
 
-      <p className="sonraki">Sonraki proje: 08-bitirme-projesi</p>
+      <p className="sonraki">Sonraki proje: 09_bitirme_projesi</p>
     </div>
   );
 }
